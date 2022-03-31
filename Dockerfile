@@ -97,6 +97,3 @@ FROM bitnami/argo-workflow-exec:3.2.9-debian-10-r0
 # Tags: 3.2.8-debian-10-r24, 3.2.8
 FROM bitnami/argo-workflow-exec:3.2.8-debian-10-r24
 FROM bitnami/argo-workflow-exec:3.2.8
-
-# Tags: 3.2.8-debian-10-r23
-FROM bitnami/argo-workflow-exec:3.2.8-debian-10-r23
